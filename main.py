@@ -11,9 +11,14 @@ app = FastAPI()
 app.mount("/static", StaticFiles(directory="images"), name="static")
 
 # Cargar preguntas desde el archivo JSON
-with open("data.json", "r", encoding="utf-8") as file:
+with open("dataP1.json", "r", encoding="utf-8") as file:
     data = json.load(file)
-    questions = data["questions"]
+    questionsP1 = data["questions"]
+
+# Cargar preguntas desde el archivo JSON
+with open("dataP2.json", "r", encoding="utf-8") as file:
+    data = json.load(file)
+    questionsP2 = data["questions"]
 
 # Modelo de respuesta para una pregunta
 class QuestionResponse(BaseModel):
@@ -26,10 +31,30 @@ class QuestionResponse(BaseModel):
 def generate_request_id():
     return str(random.randint(1000000000, 9999999999))
 
-# Endpoint para obtener una pregunta aleatoria
-@app.get("/api/randomquestion", response_model=QuestionResponse)
-def get_random_question():
-    question = random.choice(questions)
+# Endpoint para obtener una pregunta aleatoria de la parte 1
+@app.get("/api/randomquestionP1", response_model=QuestionResponse)
+def get_random_questionP1():
+    question = random.choice(questionsP1)
+
+    response = {
+        "code": 200,
+        "msg": "Pregunta obtenida con éxito",
+        "data": {
+            "context": question["context"],
+            "question": question["question"],
+            "options": question["options"],
+            "correct_answer": question["correct_answer"],
+            "image": question["image"]
+        },
+        "request_id": generate_request_id()
+    }
+
+    return response
+
+# Endpoint para obtener una pregunta aleatoria de la parte 2
+@app.get("/api/randomquestionP2", response_model=QuestionResponse)
+def get_random_questionP2():
+    question = random.choice(questionsP2)
 
     response = {
         "code": 200,

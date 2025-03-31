@@ -1,0 +1,89 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "context": "¿Cuál de las siguientes ecuaciones representa correctamente el balance de masa para un componente en un sistema biológico?",
+            "question": "Selecciona la opción correcta.",
+            "options": [
+                "a)",
+                "b)",
+                "c)",
+                "d)"
+            ],
+            "correct_answer": "b)",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "context": "¿Qué fenómeno biológico suele implicar realizar un balance de masa?",
+            "question": "Selecciona la opción correcta.",
+            "options": [
+                "a) Difusión de gases a través de los alvéolos pulmonares.",
+                "b) Contracción muscular durante el ejercicio físico.",
+                "c) Transporte de nutrientes a través de la membrana celular.",
+                "d) Producción de energía en las mitocondrias."
+            ],
+            "correct_answer": "c",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "context": "¿Qué información proporciona el balance de masa en un sistema biológico?",
+            "question": "Selecciona la opción correcta.",
+            "options": [
+                "a) La tasa de reacción de una enzima específica.",
+                "b) La cantidad total de agua presente en una célula.",
+                "c) La distribución temporal y espacial de una sustancia en un sistema biológico.",
+                "d) La temperatura óptima para el crecimiento celular."
+            ],
+            "correct_answer": "c",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "context": "Para un líquido en contacto con un sólido poroso...",
+            "question": "¿Se puede considerar que la causa principal del movimiento es siempre la difusión?",
+            "options": [
+                "a. Verdadero",
+                "b. Falso"
+            ],
+            "correct_answer": "b. Falso",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "context": "Cuando el número de Biot es mayor a 0.1...",
+            "question": "¿La concentración es únicamente función del tiempo?",
+            "options": [
+                "Verdadero",
+                "Falso"
+            ],
+            "correct_answer": "Falso",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "context": "Conocer el coeficiente de transferencia de masa (Um)...",
+            "question": "¿Implica que se puede calcular el flujo directamente sin conocer las resistencias?",
+            "options": [
+                "Verdadero",
+                "Falso"
+            ],
+            "correct_answer": "Falso",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "context": "Cuando la relación entre la tasa de la reacción y la concentración de la especie es lineal...",
+            "question": "¿Qué orden de reacción representa?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "N"
+            ],
+            "correct_answer": "1",
+            "image": ""
+        }
+    ]
+}
