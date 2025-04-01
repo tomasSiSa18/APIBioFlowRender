@@ -18,7 +18,7 @@ with open("dataP1.json", "r", encoding="utf-8") as file:
 # Cargar preguntas desde el archivo JSON
 with open("dataP2.json", "r", encoding="utf-8") as file:
     data = json.load(file)
-    questionsP2 = data["questions"]
+    questionsP2Final = data["questions"]
 
 # Modelo de respuesta para una pregunta
 class QuestionResponse(BaseModel):
@@ -54,7 +54,7 @@ def get_random_questionP1():
 # Endpoint para obtener una pregunta aleatoria de la parte 2
 @app.get("/api/randomquestionP2", response_model=QuestionResponse)
 def get_random_questionP2():
-    question = random.choice(questionsP2)
+    question = random.choice(questionsP2Final)
 
     response = {
         "code": 200,
