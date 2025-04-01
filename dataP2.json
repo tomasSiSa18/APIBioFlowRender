@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "context": "2. ¿Qué fenómeno biológico suele implicar realizar un balance de masa?",
+            "context": "¿Qué fenómeno biológico suele implicar realizar un balance de masa?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Difusión de gases a través de los alvéolos pulmonares.",
@@ -14,7 +14,7 @@
             "id": 2
         },
         {
-            "context": "3. ¿Qué información proporciona el balance de masa en un sistema biológico?",
+            "context": "¿Qué información proporciona el balance de masa en un sistema biológico?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) La tasa de reacción de una enzima específica.",
@@ -27,7 +27,7 @@
             "id": 3
         },
         {
-            "context": "6. Si se tiene una especie B disuelta en un líquido y en un gas que siguen la ley de Henry, ¿cómo sería la relación entre la concentración en fase gaseosa y en fase líquida de la especie, si se observa que hay una mayor cantidad de moléculas en el líquido?",
+            "context": "Si se tiene una especie B disuelta en un líquido y en un gas que siguen la ley de Henry, ¿cómo sería la relación entre la concentración en fase gaseosa y en fase líquida de la especie, si se observa que hay una mayor cantidad de moléculas en el líquido?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) H > 1",
@@ -40,7 +40,7 @@
             "id": 6
         },
         {
-            "context": "7. Para un líquido en contacto con un sólido poroso, se puede considerar que en todos los casos, la causa principal del movimiento de este es la difusión.",
+            "context": "Para un líquido en contacto con un sólido poroso, se puede considerar que en todos los casos, la causa principal del movimiento de este es la difusión.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -51,7 +51,7 @@
             "id": 7
         },
         {
-            "context": "8. En un estudio del transporte de LDL a través de la pared capilar en un paciente de 60 años con nula producción de esta sustancia, pero con alta concentración en la túnica íntima, ¿Qué términos de la ecuación gobernante usaría para modelar este fenómeno?",
+            "context": "En un estudio del transporte de LDL a través de la pared capilar en un paciente de 60 años con nula producción de esta sustancia, pero con alta concentración en la túnica íntima, ¿Qué términos de la ecuación gobernante usaría para modelar este fenómeno?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Acumulación",
@@ -64,7 +64,7 @@
             "id": 8
         },
         {
-            "context": "9. En una farmacéutica se busca analizar el transporte difusivo de un medicamento a través de la epidermis. Si se busca comprender el cambio de concentración respecto al tiempo, y se asume un modelo de bloque para el sistema, ¿usted como ingeniero biomédico podría afirmar que su perfil de concentración es lineal?",
+            "context": "En una farmacéutica se busca analizar el transporte difusivo de un medicamento a través de la epidermis. Si se busca comprender el cambio de concentración respecto al tiempo, y se asume un modelo de bloque para el sistema, ¿usted como ingeniero biomédico podría afirmar que su perfil de concentración es lineal?",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -75,7 +75,7 @@
             "id": 9
         },
         {
-            "context": "11. Su amigo Miguel desea analizar el transporte de un medicamento por la membrana epitelial, considerando una permanencia mínima de 5 minutos en la membrana para una adecuada reacción celular. Miguel piensa utilizar una aproximación de bloque con las cartas de Heisler. Basado en sus conocimientos, usted, como estudiante de FTB, ¿qué le aconsejaría?",
+            "context": "Su amigo Miguel desea analizar el transporte de un medicamento por la membrana epitelial, considerando una permanencia mínima de 5 minutos en la membrana para una adecuada reacción celular. Miguel piensa utilizar una aproximación de bloque con las cartas de Heisler. Basado en sus conocimientos, usted, como estudiante de FTB, ¿qué le aconsejaría?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Está en lo correcto, dado que las cartas de Heisler son pertinentes para este tipo de geometrías con aproximación multidimensional.",
@@ -88,7 +88,7 @@
             "id": 11
         },
         {
-            "context": "12. Cuando el número de Biot es mayor a 0.1, la concentración es únicamente función del tiempo.",
+            "context": "Cuando el número de Biot es mayor a 0.1, la concentración es únicamente función del tiempo.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -99,7 +99,7 @@
             "id": 12
         },
         {
-            "context": "13. Evalúe las siguientes afirmaciones sobre la resistencia difusiva interna y el uso de gráficas de Heisler:",
+            "context": "Evalúe las siguientes afirmaciones sobre la resistencia difusiva interna y el uso de gráficas de Heisler:",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) 1 y 2 son verdaderas",
@@ -112,7 +112,7 @@
             "id": 13
         },
         {
-            "context": "14. En un día soleado de playa, usted decide descubrir las maravillas del mundo marino y compra un equipo para hacer snorkel. Cuando se sumerge en el mar, usted se encuentra con unos corales que están totalmente sumergidos en el agua, ¿Qué podría decir sobre estos corales?",
+            "context": "En un día soleado de playa, usted decide descubrir las maravillas del mundo marino y compra un equipo para hacer snorkel. Cuando se sumerge en el mar, usted se encuentra con unos corales que están totalmente sumergidos en el agua, ¿Qué podría decir sobre estos corales?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Su resistencia interna al movimiento difusivo es despreciable",
@@ -125,7 +125,7 @@
             "id": 14
         },
         {
-            "context": "17. Un equipo de ingenieros biomédicos está diseñando una prótesis de mano que debe mantener sus propiedades mecánicas y dimensionales en diversos ambientes, incluyendo exposición a fluidos corporales y diferentes condiciones de humedad. Están considerando dos materiales poliméricos: Material A (higroscópico) y Material B (no higroscópico).",
+            "context": "Un equipo de ingenieros biomédicos está diseñando una prótesis de mano que debe mantener sus propiedades mecánicas y dimensionales en diversos ambientes, incluyendo exposición a fluidos corporales y diferentes condiciones de humedad. Están considerando dos materiales poliméricos: Material A (higroscópico) y Material B (no higroscópico).",
             "question": "Selecciona la afirmación más acertada respecto a la selección del material para la prótesis.",
             "options": [
                 "a) El material higroscópico (A) es la mejor opción porque su capacidad de absorber humedad mejorará la biocompatibilidad con los tejidos circundantes.",
@@ -139,7 +139,7 @@
             "id": 17
         },
         {
-            "context": "19. El número de Biot es un parámetro adimensional crucial en el análisis de procesos de transporte de masa y calor. En un estudio sobre la absorción de un fármaco a través de la piel, se han obtenido diferentes valores del número de Biot para distintas formulaciones del medicamento.",
+            "context": "El número de Biot es un parámetro adimensional crucial en el análisis de procesos de transporte de masa y calor. En un estudio sobre la absorción de un fármaco a través de la piel, se han obtenido diferentes valores del número de Biot para distintas formulaciones del medicamento.",
             "question": "¿Cuál de las siguientes afirmaciones sobre el número de Biot y sus implicaciones es correcta?",
             "options": [
                 "a) Un número de Biot menor a 0.1 indica que la resistencia a la transferencia de masa en la superficie es mucho mayor que la resistencia a la difusión interna, por lo que se pueden usar soluciones de parámetros agrupados.",
@@ -153,7 +153,7 @@
             "id": 19
         },
         {
-            "context": "20. En el estudio de la liberación controlada de fármacos, es crucial seleccionar el método de análisis adecuado para problemas de difusión en estado transitorio.",
+            "context": "En el estudio de la liberación controlada de fármacos, es crucial seleccionar el método de análisis adecuado para problemas de difusión en estado transitorio.",
             "question": "¿Cuál de las siguientes secuencias representa correctamente los pasos a seguir para escoger el método de análisis apropiado en un problema de difusión en estado transitorio?",
             "options": [
                 "a) 1. Calcular el número de Fourier 2. Si Fo < 0.2, usar solución para medio semi-infinito 3. Si Fo ≥ 0.2, calcular el número de Biot 4. Si Bi < 0.1, usar método de parámetros agrupados 5. Si Bi ≥ 0.1, usar cartas de Heisler o solución analítica.",
@@ -167,7 +167,7 @@
             "id": 20
         },
         {
-            "context": "21. ¿Qué rol tiene el coeficiente de distribución (partición) en la transferencia de masa entre una fase líquida y una fase solida?",
+            "context": "¿Qué rol tiene el coeficiente de distribución (partición) en la transferencia de masa entre una fase líquida y una fase solida?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Describe la proporción entre la concentración del soluto en el líquido con respecto a la concentración en el sólido, por lo que, si el coeficiente de distribución es alto, esto indica que el soluto tiene una mayor afinidad por la fase sólida que por la fase líquida.",
@@ -180,7 +180,7 @@
             "id": 21
         },
         {
-            "context": "22. Conocer el coeficiente de transferencia de masa (Um) no implica que pueda calcular el flux directamente, sin tener que conocer las resistencias de transferencia de masa.",
+            "context": "Conocer el coeficiente de transferencia de masa (Um) no implica que pueda calcular el flux directamente, sin tener que conocer las resistencias de transferencia de masa.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -191,7 +191,7 @@
             "id": 22
         },
         {
-            "context": "23. Para la solución de un problema de transferencia de masa o de calor en estado transiente en una región especifica, usted puede en primera instancia analizar si la región bajo estudio es semi-infinita o finita. Para asegurar que la región es semi-infinita se requiere que se cumpla que la:",
+            "context": "Para la solución de un problema de transferencia de masa o de calor en estado transiente en una región especifica, usted puede en primera instancia analizar si la región bajo estudio es semi-infinita o finita. Para asegurar que la región es semi-infinita se requiere que se cumpla que la:",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Región sea delgada a tiempos cortos",
@@ -204,7 +204,7 @@
             "id": 23
         },
         {
-            "context": "24. El parámetro m para la solución de un problema de transporte de masa en estado transiente por medio de las cartas de Heisler requiere el conocimiento del coeficiente convectivo de transferencia de masa.",
+            "context": "El parámetro m para la solución de un problema de transporte de masa en estado transiente por medio de las cartas de Heisler requiere el conocimiento del coeficiente convectivo de transferencia de masa.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -215,7 +215,7 @@
             "id": 24
         },
         {
-            "context": "25. Cuando la relación entre la tasa de la reacción y la concentración de la especie es lineal, se puede asumir que la reacción es de orden.",
+            "context": "Cuando la relación entre la tasa de la reacción y la concentración de la especie es lineal, se puede asumir que la reacción es de orden.",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) 0",
@@ -228,7 +228,7 @@
             "id": 25
         },
         {
-            "context": "27. ¿Cuál de las siguientes afirmaciones es verdadera?",
+            "context": "¿Cuál de las siguientes afirmaciones es verdadera?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) i",
@@ -246,7 +246,7 @@
             "id": 27
         },
         {
-            "context": "28. Los coeficientes de partición con valores pequeños usualmente describen sustancias hidrofóbicas.",
+            "context": "Los coeficientes de partición con valores pequeños usualmente describen sustancias hidrofóbicas.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -257,7 +257,7 @@
             "id": 28
         },
         {
-            "context": "29. ¿Cuál de las siguientes afirmaciones es falsa?",
+            "context": "¿Cuál de las siguientes afirmaciones es falsa?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) i",
@@ -275,7 +275,7 @@
             "id": 29
         },
         {
-            "context": "30. ¿Qué significa que la constante de Henry, H, sea muy alta cuando se habla de equilibrio entre una fase gaseosa y una líquida?",
+            "context": "¿Qué significa que la constante de Henry, H, sea muy alta cuando se habla de equilibrio entre una fase gaseosa y una líquida?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Que será más difícil solubilizar el gas en el líquido.",
@@ -288,7 +288,7 @@
             "id": 30
         },
         {
-            "context": "31. A la hora de resolver un problema con ayuda de las cartas de Heisler, ¿Cuál es el valor de los parámetros m y n para un bloque con longitud característica L = 1 m, D = 1E−10 m/s^2, K* = 1 y h_m = 0.01 m/s? Suponga que desea hacer el análisis en la superficie del bloque. Aproxime su respuesta al entero más cercano.",
+            "context": "A la hora de resolver un problema con ayuda de las cartas de Heisler, ¿Cuál es el valor de los parámetros m y n para un bloque con longitud característica L = 1 m, D = 1E−10 m/s^2, K* = 1 y h_m = 0.01 m/s? Suponga que desea hacer el análisis en la superficie del bloque. Aproxime su respuesta al entero más cercano.",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) m = 0, n = 1",
@@ -301,7 +301,7 @@
             "id": 31
         },
         {
-            "context": "32. Usted está resolviendo un problema de transporte de masa en estado transiente y se da cuenta de que puede resolver el caso mediante una solución por series, por lo cual decide calcular el número de Fourier. Una vez realizado el cálculo, usted se percata que dicho número le da un valor de 0.1. Así, usted decide resolver su problema mediante:",
+            "context": "Usted está resolviendo un problema de transporte de masa en estado transiente y se da cuenta de que puede resolver el caso mediante una solución por series, por lo cual decide calcular el número de Fourier. Una vez realizado el cálculo, usted se percata que dicho número le da un valor de 0.1. Así, usted decide resolver su problema mediante:",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) El uso de las cartas de Heisler.",
@@ -314,7 +314,7 @@
             "id": 32
         },
         {
-            "context": "33. El número de Biot corresponde a la razón entre la resistencia convectiva (Rc) y la resistencia difusiva (Rd), es decir Rc/Rd.",
+            "context": "El número de Biot corresponde a la razón entre la resistencia convectiva (Rc) y la resistencia difusiva (Rd), es decir Rc/Rd.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -325,7 +325,7 @@
             "id": 33
         },
         {
-            "context": "34. Un número de Biot _____ implica que la difusividad es mucho más _____ que el coeficiente convectivo de transferencia de masa.",
+            "context": "Un número de Biot _____ implica que la difusividad es mucho más _____ que el coeficiente convectivo de transferencia de masa.",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Grande, menor",
@@ -336,7 +336,7 @@
             "id": 34
         },
         {
-            "context": "35. Para emplear los gráficos de Heisler se deben cumplir las siguientes condiciones, excepto:",
+            "context": "Para emplear los gráficos de Heisler se deben cumplir las siguientes condiciones, excepto:",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Concentración inicial uniforme",
@@ -349,7 +349,7 @@
             "id": 35
         },
         {
-            "context": "36. En el desarrollo de pruebas in-vitro de un scaffold de quitosano para la regeneración de tejido óseo, se decide aplicar un medicamento cada cierto tiempo que estimula el proceso de proliferación de los osteocitos. Para esto, se aplican 20 g/mL de medicamento sobre una de las caras del scaffold, y se busca saber su concentración en la cara reversa. Teniendo en cuenta que la concentración en el centro del scaffold fue de 14 g/mL y la longitud horizontal de este es de 2 cm. Halle la concentración en la cara reversa del scaffold. Pista: asuma el problema en estado estacionario.",
+            "context": "En el desarrollo de pruebas in-vitro de un scaffold de quitosano para la regeneración de tejido óseo, se decide aplicar un medicamento cada cierto tiempo que estimula el proceso de proliferación de los osteocitos. Para esto, se aplican 20 g/mL de medicamento sobre una de las caras del scaffold, y se busca saber su concentración en la cara reversa. Teniendo en cuenta que la concentración en el centro del scaffold fue de 14 g/mL y la longitud horizontal de este es de 2 cm. Halle la concentración en la cara reversa del scaffold. Pista: asuma el problema en estado estacionario.",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) 7 g/mL",
@@ -362,7 +362,7 @@
             "id": 36
         },
         {
-            "context": "37. Al utilizar una aproximación de parámetros agrupados, se asume que el sólido tiene una cantidad significativa de agua, permitiendo concluir que la resistencia interna al transporte difusivo de masa es despreciable. ¿Es correcto afirmar que esto permite modelar el cambio de concentración respecto a la posición y tiempo como un flujo convectivo?",
+            "context": "Al utilizar una aproximación de parámetros agrupados, se asume que el sólido tiene una cantidad significativa de agua, permitiendo concluir que la resistencia interna al transporte difusivo de masa es despreciable. ¿Es correcto afirmar que esto permite modelar el cambio de concentración respecto a la posición y tiempo como un flujo convectivo?",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -373,7 +373,7 @@
             "id": 37
         },
         {
-            "context": "38. Un ingeniero de su equipo de investigación modeló el transporte de masa para entender la variación de la concentración de las lipoproteínas de baja densidad en la túnica íntima de pacientes con aterosclerosis. Él resolvió el problema asumiendo la pared arterial como una geometría en bloque por medio de las cartas de Heisler respectivas. Si el coeficiente de difusión era de 2*10^-3 mm^2/s, la longitud de 0.4 mm, el coeficiente de transferencia de masa de 0.1 mm/s, K* = 0.5 y el tiempo de experimentación de 20 s, ¿fue adecuada la aproximación utilizada por su compañero?",
+            "context": "Un ingeniero de su equipo de investigación modeló el transporte de masa para entender la variación de la concentración de las lipoproteínas de baja densidad en la túnica íntima de pacientes con aterosclerosis. Él resolvió el problema asumiendo la pared arterial como una geometría en bloque por medio de las cartas de Heisler respectivas. Si el coeficiente de difusión era de 2*10^-3 mm^2/s, la longitud de 0.4 mm, el coeficiente de transferencia de masa de 0.1 mm/s, K* = 0.5 y el tiempo de experimentación de 20 s, ¿fue adecuada la aproximación utilizada por su compañero?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Verdadero, pues se cumplen los parámetros adecuados para utilizar las cartas.",
@@ -386,7 +386,7 @@
             "id": 38
         },
         {
-            "context": "39. El número de Biot es un parámetro que permite comparar la resistencia interna y externa en problemas de transporte de masa. También se puede considerar como la relación entre la resistencia difusiva y convectiva.",
+            "context": "El número de Biot es un parámetro que permite comparar la resistencia interna y externa en problemas de transporte de masa. También se puede considerar como la relación entre la resistencia difusiva y convectiva.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -397,7 +397,7 @@
             "id": 39
         },
         {
-            "context": "40. Uno de sus colegas está experimentando con diferentes geometrías para acelerar el transporte de un medicamento hacia la membrana mitocrondrial y le pide ayuda para decidir sobre una de ellas. ¿Cuál geometría elegiría? Nota: Considere que en este problema se cumplen las condiciones para utilizar las cartas de Heisler.",
+            "context": "Uno de sus colegas está experimentando con diferentes geometrías para acelerar el transporte de un medicamento hacia la membrana mitocrondrial y le pide ayuda para decidir sobre una de ellas. ¿Cuál geometría elegiría? Nota: Considere que en este problema se cumplen las condiciones para utilizar las cartas de Heisler.",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Esférica",
@@ -410,7 +410,7 @@
             "id": 40
         },
         {
-            "context": "41. Considere que tiene un recipiente cerrado que contiene una fase líquida y una fase gaseosa del mismo gas. La presión total en el recipiente es constante. En este contexto, ¿cuál de las siguientes opciones describe mejor la relación entre la concentración del gas en la fase líquida y la presión parcial del gas en equilibrio, según la Ley de Henry?",
+            "context": "Considere que tiene un recipiente cerrado que contiene una fase líquida y una fase gaseosa del mismo gas. La presión total en el recipiente es constante. En este contexto, ¿cuál de las siguientes opciones describe mejor la relación entre la concentración del gas en la fase líquida y la presión parcial del gas en equilibrio, según la Ley de Henry?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) La concentración del gas en la fase líquida es directamente proporcional a la presión parcial del gas.",
@@ -423,7 +423,7 @@
             "id": 41
         },
         {
-            "context": "42. Imagina que estás investigando un nuevo medicamento que se administra por vía oral para tratar una enfermedad. Cuando se toma el medicamento, este debe ser absorbido por el torrente sanguíneo para que pueda llegar a su objetivo terapéutico. Sin embargo, el medicamento puede tener propiedades que lo hacen más soluble en tejidos grasos que en agua. ¿Cuál de los siguientes conceptos describe mejor el carácter hidrófilo o hidrófobo de una sustancia?",
+            "context": "Imagina que estás investigando un nuevo medicamento que se administra por vía oral para tratar una enfermedad. Cuando se toma el medicamento, este debe ser absorbido por el torrente sanguíneo para que pueda llegar a su objetivo terapéutico. Sin embargo, el medicamento puede tener propiedades que lo hacen más soluble en tejidos grasos que en agua. ¿Cuál de los siguientes conceptos describe mejor el carácter hidrófilo o hidrófobo de una sustancia?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Coeficiente de partición",
@@ -436,7 +436,7 @@
             "id": 42
         },
         {
-            "context": "43. Considera las siguientes afirmaciones sobre reacciones químicas: I. En una reacción de orden cero, la velocidad es constante, como en el consumo de oxígeno en los tejidos. II. En una reacción de primer orden, la velocidad es proporcional a la concentración de un solo reactivo, por ejemplo, en la degradación de contaminantes en el suelo. III. El aumento de la temperatura desacelera la mayoría de las reacciones químicas.",
+            "context": "Considera las siguientes afirmaciones sobre reacciones químicas: I. En una reacción de orden cero, la velocidad es constante, como en el consumo de oxígeno en los tejidos. II. En una reacción de primer orden, la velocidad es proporcional a la concentración de un solo reactivo, por ejemplo, en la degradación de contaminantes en el suelo. III. El aumento de la temperatura desacelera la mayoría de las reacciones químicas.",
             "question": "¿Cuál(es) de las afirmaciones anteriores es(son) correcta(s)?",
             "options": [
                 "a) Solo I",
@@ -450,7 +450,7 @@
             "id": 43
         },
         {
-            "context": "44. En un proceso de diálisis, se desea calcular la tasa de transferencia de masa de una sustancia desde la sangre al fluido de diálisis a través de una membrana delgada que puede asumirse como un bloque. ¿Cuál de las siguientes afirmaciones sobre este proceso es correcta?",
+            "context": "En un proceso de diálisis, se desea calcular la tasa de transferencia de masa de una sustancia desde la sangre al fluido de diálisis a través de una membrana delgada que puede asumirse como un bloque. ¿Cuál de las siguientes afirmaciones sobre este proceso es correcta?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) En un proceso de diálisis, se desea calcular la tasa de transferencia de masa de una sustancia desde la sangre al fluido de diálisis a través de una membrana delgada que puede asumirse como un bloque. ¿Cuál de las siguientes afirmaciones sobre este proceso es correcta?",
@@ -463,7 +463,7 @@
             "id": 44
         },
         {
-            "context": "45. La presencia de una reacción química (desintegración) en un bloque aumenta el flujo superficial, ya que se mantiene un gradiente de concentración más alto.",
+            "context": "La presencia de una reacción química (desintegración) en un bloque aumenta el flujo superficial, ya que se mantiene un gradiente de concentración más alto.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -474,7 +474,7 @@
             "id": 45
         },
         {
-            "context": "46. Por analogía con la transferencia de calor, explique el perfil de concentración en un bloque en estado estacionario cuando no hay reacción presente.",
+            "context": "Por analogía con la transferencia de calor, explique el perfil de concentración en un bloque en estado estacionario cuando no hay reacción presente.",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) El perfil de concentración en una losa en estado estacionario es similar al perfil de temperatura en un cuerpo sólido en estado estacionario. La concentración disminuye gradualmente desde la superficie hasta el centro de la losa, siguiendo una distribución exponencial.",
@@ -487,7 +487,7 @@
             "id": 46
         },
         {
-            "context": "48. ¿Cuál de los siguientes términos en la ecuación que rige el transporte de masa se puede ignorar cuando se alcanza un estado estacionario y no hay variación de concentración con el tiempo?",
+            "context": "¿Cuál de los siguientes términos en la ecuación que rige el transporte de masa se puede ignorar cuando se alcanza un estado estacionario y no hay variación de concentración con el tiempo?",
             "question": "Selecciona la opción correcta.",
             "options": [
                 "a) Almacenamiento",
@@ -500,7 +500,7 @@
             "id": 48
         },
         {
-            "context": "49. En un sistema en equilibrio gas-líquido, la Ley de Newton determina que, a una temperatura constante, la concentración de un gas disuelto en un líquido es directamente proporcional a la presión parcial que este ejerce sobre el líquido.",
+            "context": "En un sistema en equilibrio gas-líquido, la Ley de Newton determina que, a una temperatura constante, la concentración de un gas disuelto en un líquido es directamente proporcional a la presión parcial que este ejerce sobre el líquido.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
@@ -511,7 +511,7 @@
             "id": 49
         },
         {
-            "context": "50. En una reacción de orden 1, la tasa de reacción es independiente de la concentración de las especies involucradas en la reacción y, por lo tanto, el cambio en esta última con respecto al tiempo es lineal, mientras que en una reacción de orden 0 la tasa de reacción depende linealmene de la concentración y por lo tanto esta última cambia exponencialmente con el tiempo.",
+            "context": "En una reacción de orden 1, la tasa de reacción es independiente de la concentración de las especies involucradas en la reacción y, por lo tanto, el cambio en esta última con respecto al tiempo es lineal, mientras que en una reacción de orden 0 la tasa de reacción depende linealmene de la concentración y por lo tanto esta última cambia exponencialmente con el tiempo.",
             "question": "Indica si la afirmación es verdadera o falsa.",
             "options": [
                 "a) Verdadero",
