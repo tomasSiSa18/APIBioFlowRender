@@ -1,0 +1,372 @@
+{
+    "questions": [
+        {
+            "context": "Imagina que estás en una expedición por la selva amazónica donde la temperatura ambiente supera los 30°C, mientras que tu amigo está en Bogotá en un día cálido con una temperatura que no supera los 20°C. Para mantener el confort térmico, tú y tu amigo pierden calor por diferentes mecanismos. ¿Cuál de las siguientes combinaciones describe correctamente el principal mecanismo de pérdida de calor en cada caso? Tu: Conducción; tu amigo: evaporación. Tu: Radiación y evaporación; tu amigo: evaporación. Tu: evaporación; tu amigo: radiación. Tu: evaporación; tu amigo: radiación y convección.",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 51
+        },
+        {
+            "context": "Un paciente presenta un tumor cancerígeno en la pared del intestino delgado. Para removerlo, los médicos sugieren un tratamiento por termoterapia y determinan que a una profundidad de 0.5 mm en la pared la temperatura alcanza los 31°C, ¿Cuál será la temperatura en la superficie del tumor si la temperatura inicial fue de 38°C? Pista: Asuma el problema está en estado estacionario y la geometría es un bloque con un ancho de 1mm. 25°C 33°C 24°C 19°C",
+            "question": "",
+            "options": [],
+            "correct_answer": "c",
+            "image": "",
+            "id": 52
+        },
+        {
+            "context": "Imagina que tienes una colonia de bacterias en un recipiente aislado térmicamente donde la temperatura de las paredes es constante. Al inyectar un soluto para alimentar a las bacterias, observas que algunas de ellas reaccionan produciendo calor. ¿En qué punto del recipiente se presenta la temperatura máxima? En las paredes del recipiente. En la parte trasera del recipiente. La temperatura es constante en todas partes. En el centro del recipiente.",
+            "question": "",
+            "options": [],
+            "correct_answer": "d",
+            "image": "",
+            "id": 53
+        },
+        {
+            "context": "Una especie de mamíferos se vio afectada por el calentamiento global debido a que su ecosistema comenzó a experimentar aumentos de temperatura durante períodos prolongados. Este cambio fue drástico en la mayoría de los individuos, especialmente en los de la primera generación. Sin embargo, algunos descendientes desarrollaron mutaciones que les permitieron sobrevivir con el paso del tiempo. ¿Cuál de estos cambios morfológicos pudo ser el más probable? Disminución de su vello capilar Aumento de su diámetro craneal Disminución de sus extremidades superiores. Surgimiento de una aleta o superficie plana.",
+            "question": "",
+            "options": [],
+            "correct_answer": "d",
+            "image": "",
+            "id": 54
+        },
+        {
+            "context": "Considerando únicamente la resistencia conductiva, ¿cuál de estos sistemas se calentará en menor tiempo? Nota: Asuma que la conductividad térmica (k) es igual para ambos sistemas. El sistema 1 Son iguales El sistema 2 No se puede determinar",
+            "question": "",
+            "options": [],
+            "correct_answer": "b",
+            "image": "",
+            "id": 55
+        },
+        {
+            "context": "Al aproximar una geometría a una región semi-infinita, el espesor mínimo que se necesita para emplear este método es directamente proporcional al tiempo y a la difusividad térmica del sistema. Verdadero Falso",
+            "question": "",
+            "options": [],
+            "correct_answer": "f",
+            "image": "",
+            "id": 56
+        },
+        {
+            "context": "En un proyecto, se le encargó desarrollar un dispositivo en el cual el calor se conduzca lentamente hacia la superficie para mantener un mayor control sobre el gradiente de temperatura. Como ingeniero biomédico, dispone de dos materiales posibles, donde el R-value del primero es mucho menor que el del segundo. ¿Cuál de los dos materiales escogería para la aplicación? El material 1 El material 2 Una aleación de ambos materiales Llamaría a su profesor para preguntarle cuál debe escoger",
+            "question": "",
+            "options": [],
+            "correct_answer": "b",
+            "image": "",
+            "id": 57
+        },
+        {
+            "context": "Un bloque con un espesor de 50 mm tiene en las superficies interna y externa temperaturas de 20°C y 5°C, respectivamente. Determina los flujos de calor para paredes de diferentes conductividades térmicas. La conductividad térmica (k) de los materiales es la siguiente: - Ladrillo: ( k = 0.69 W/mK) - Madera: ( k = 0.208 W/mK) ¿Cuál es el flujo de calor (en W/m²) a través de la pared de ladrillo y la pared de madera? Ladrillo: 207 W/m², Madera: 62 W/m² Ladrillo: 41.4 W/m², Madera: 12.48 W/m² Ladrillo: 207 W/m², Madera: 12.48 W/m² Ladrillo: 41.4 W/m², Madera: 62 W/m²",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 58
+        },
+        {
+            "context": "Un cilindro vertical está expuesto a un flujo de aire a 25°C. La temperatura de la superficie del cilindro es 75°C. Si el coeficiente de transferencia de calor por convección es ℎ=10 W/m²K, ¿cuál es la tasa de transferencia de calor por convección desde el cilindro al aire? 250 W/m² 500 W/m² 750 W/m² 1000 W/m²",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 59
+        },
+        {
+            "context": "Un panel de acero con un espesor de 10 cm tiene una temperatura de 150°C en una superficie y 50°C en la otra. La conductividad térmica del acero es k=45W/mK. ¿Cuál es el flujo de calor a través del panel? 45 W/m² 450 W/m² 4500 W/m² 45,000 W/m²",
+            "question": "",
+            "options": [],
+            "correct_answer": "",
+            "image": "",
+            "id": 60
+        },
+        {
+            "context": "Una superficie plana horizontal de 2 m² se mantiene a una temperatura constante de 400 K. La superficie está expuesta al aire ambiente a 300 K con un coeficiente de transferencia de calor por convección de 15 W/m2K. La emisividad de la superficie es 0.85. ¿Cuál es la tasa total de transferencia de calor desde la superficie? 2300 W 4500 W 6900 W 9200 W",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 61
+        },
+        {
+            "context": "¿Cuál de las siguientes opciones describe mejor la Ley de Fourier para la conducción de calor? Es una ley que relaciona el flujo de calor con la diferencia de temperatura y la resistencia térmica del material. Es una ley empírica que describe el flujo de calor en un fluido debido a la convección. Es una ecuación diferencial que describe la distribución de temperatura en un cuerpo a lo largo del tiempo. Es una ley que relaciona el flujo de calor con el gradiente de temperatura y la conductividad térmica del material.",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 62
+        },
+        {
+            "context": "En el desarrollo de un modelo térmico para simular la ablación por radiofrecuencia de un tumor hepático, surge la pregunta sobre la inclusión de los vasos sanguíneos grandes presentes en el hígado. Estos vasos sanguíneos tienen un diámetro significativo y transportan sangre a través del tejido hepático. ¿Por qué es importante considerar la exclusión de los vasos sanguíneos grandes al aplicar la ecuación de bio-calor en el modelado de la ablación por radiofrecuencia? Porque los vasos sanguíneos grandes no afectan la distribución de temperatura dentro del hígado durante la ablación por radiofrecuencia. Porque los vasos sanguíneos grandes tienen una temperatura constante que no varía significativamente con respecto al tejido circundante durante el procedimiento de ablación. Porque la inclusión de los vasos sanguíneos grandes requeriría un modelo térmico más complejo que tome en cuenta la circulación sanguínea y la interacción entre el tejido sólido y el líquido, lo cual contradice la suposición de homogeneidad del material en la ecuación de bio-calor. Porque los modelos de transferencia de calor no son aplicables en tejidos que contienen vasos sanguíneos grandes debido a la variabilidad de la temperatura en el sistema vascular durante la ablación por radiofrecuencia.",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 63
+        },
+        {
+            "context": "En un laboratorio de investigación, se lleva a cabo un experimento para estudiar el enfriamiento de una taza de café recién preparado. La taza contiene café caliente a una temperatura inicial de 80°C y se encuentra en un ambiente a una temperatura de 20°C. Durante el experimento, se observa que la temperatura del café disminuye gradualmente con el tiempo. ¿Cuál de las siguientes afirmaciones describe mejor el balance de calor en este caso? La taza de café pierde calor al ambiente circundante a través de un proceso de convección, mientras que simultáneamente gana calor del ambiente debido a la diferencia de temperatura. La taza de café gana calor del ambiente circundante a través de un proceso de conducción, mientras que simultáneamente pierde calor al ambiente debido a la diferencia de temperatura. La taza de café gana calor del ambiente circundante a través de un proceso de convección, mientras que simultáneamente pierde calor al ambiente debido a la diferencia de temperatura. La taza de café pierde calor al ambiente circundante a través de un proceso de conducción, mientras que simultáneamente gana calor del ambiente debido a la diferencia de temperatura.",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 64
+        },
+        {
+            "context": "Un estudio observó que, tras ser trasladadas a un ambiente nevado, zarigüeyas silvestres no solo sobrevivieron, sino que prosperaron. Se hipotetiza que las generaciones siguientes desarrollaron un pelaje más grueso. ¿Es válida esta hipótesis considerando la termorregulación? Falso, pues el efecto de un aumento en el grosor del pelo afecta la resistencia térmica únicamente de los animales grandes. Verdadero, ya que el efecto de un aumento en el grosor del pelo aumenta considerablemente la resistencia térmica en animales pequeños Falso, ya que el efecto de un aumento en el grosor del pelo afecta mínimamente la resistencia térmica de un animal pequeño Verdadero, ya que el aumento en el grosor del pelo tiene relación directa con la disminución del metabolismo del animal",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 65
+        },
+        {
+            "context": "Para el desarrollo de un proyecto para astronautas, se propuso un sistema que simula el comportamiento de los vasos sanguíneos a diferentes temperaturas, ya que esto permitiría conocer su fisiología cuando se exponen a ambientes extremos. ¿Cuál sería una hipótesis válida respecto a las respuestas al enfriamiento? Disminuye la producción de calor por termorregulación Los vasos presentarán pérdida de calor por evaporación, pues estos se dilatarán Habrá vasodilatación, pues de esta manera se disminuirá la resistencia térmica y se generará un mayor flujo de calor hacia el vaso Habrá vasoconstricción, pues esto disminuirá el flujo de sangre y permitirá aumentar la resistencia térmica, evitando la pérdida de calor",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 66
+        },
+        {
+            "context": "En una termoterapia donde se utiliza un dispositivo que alcanza altas temperaturas para eliminar un tumor maligno, se necesita evitar que el flujo de calor dañe otros tejidos. ¿Qué condición de contorno sería más adecuada? Temperatura específica en la superficie Flux de calor en la superficie Condición de simetría Condición de aislamiento",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 67
+        },
+        {
+            "context": "En un laboratorio de ingeniería biomédica, se ha diseñado un sistema de secado de apósitos mediante una corriente de aire caliente que fluye sobre su superficie. El sistema consiste en: Mesas de laboratorio con sistema de aire caliente integrado Apósitos recién fabricados con alto contenido de humedad Flujo de aire a temperatura constante (T∞) Transferencia de calor por convección en la interfaz aire-apósito ¿Cuál es la condición de contorno correcta para la superficie del apósito en contacto con el aire? En la superficie, T(s) = T∞ (temperatura del aire) En la superficie, T(s) = k·T∞, donde k es el coeficiente de partición En la superficie, -k(∂T/∂x) = h[T∞ - T(s)], donde h es el coeficiente de transferencia de calor por convección En la superficie, T(s) < T(centro) debido al gradiente de temperatura",
+            "question": "",
+            "options": [],
+            "correct_answer": "c",
+            "image": "",
+            "id": 68
+        },
+        {
+            "context": "En un día soleado de playa, usted decide descubrir las maravillas del mundo marino y compra un equipo para hacer snorkel. Cuando se sumerge en el mar, usted se encuentra con unos corales que están totalmente sumergidos en el agua, ¿Qué podría decir sobre estos corales? Su resistencia interna al movimiento difusivo es despreciable Su resistencia externa al movimiento difusivo es despreciable La concentración de humedad sobre el coral no es espacialmente uniforme El número de Biot del coral es muy grande",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 69
+        },
+        {
+            "context": "Para evaluar el cambio de concentración de un sólido respecto al tiempo, ¿Cuál es el primer parámetro que debe revisar? Usted revisa si la longitud del sólido le permite aplicar una aproximación semi-infinita. Usted evalúa el número de Fourier y determina si este es mayor o menor a 0.2 y si es aplicable el uso de las cartas de Heisler. Usted verifica si el número de Biot es mayor o menor a 0.1, para evaluar si debe tener o no en cuenta la resistencia interna del sólido. Le pregunta a su profesor ante la incertidumbre sobre el procedimiento a seguir.",
+            "question": "",
+            "options": [],
+            "correct_answer": "r",
+            "image": "",
+            "id": 70
+        },
+        {
+            "context": "Su amigo Miguel desea analizar el transporte de un medicamento por la membrana epitelial, considerando una permanencia mínima de 5 minutos en la membrana para una adecuada reacción celular. Miguel piensa utilizar una aproximación de bloque con las cartas de Heisler. Basado en sus conocimientos, Usted, como estudiante de FTB, ¿qué le aconsejaría? Está en lo correcto, dado que las cartas de Heisler son pertinentes para este tipo de geometrías con aproximación multidimensional. Está en lo correcto, ya que la geometría puede aproximarse a un bloque y el tiempo de permanencia es adecuado para usar las cartas. Está equivocado, porque una condición para el uso de este método es la ausencia de reacciones químicas en la sustancia. Está equivocado, ya que el análisis debería enfocarse cerca de los bordes de la membrana para aplicar correctamente las cartas de Heisler.",
+            "question": "",
+            "options": [],
+            "correct_answer": "c",
+            "image": "",
+            "id": 71
+        },
+        {
+            "context": "Calcule el flux de calor por conducción de un bloque de oro macizo cuya conductividad térmica k es de 314 W/mK, y cuyo perfil de temperatura T está descrito por la siguiente ecuación dependiente de la posición:",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 72
+        },
+        {
+            "context": "Suponga que usted ha sido contratado para fabricar un material de protección térmica para evitar que cualquier persona que tenga contacto con un material que está a 150ºC se queme, esto es, que supere 40ºC en el área de contacto. Dado esto, que el espesor del material es de 5 cm y que el material debe permitir un flux de calor de 305 W/m^2, calcule la conductividad térmica que debe tener su material. 5.08 W/mk 508.3 W/mk 0.138 W/mk 138 W/mk",
+            "question": "",
+            "options": [],
+            "correct_answer": "c",
+            "image": "",
+            "id": 73
+        },
+        {
+            "context": "Suponga que usted ha sido contratado para fabricar un material de protección térmica para evitar que cualquier persona que tenga contacto con un material que está a 150ºC se queme, esto es, que sea de 40ºC en el área de contacto. Dado esto y que el material debe permitir un flux de calor de 305 W/m^2, una conductividad de 5.05 W/mk y un calor especifico de 880 J/gK. Calcule el espesor que debería tener la capa protectora. 1.82m 0.05m 0.183m 0.0183m",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 74
+        },
+        {
+            "context": "Suponga que usted ha sido contratado para fabricar un material de material térmica para evitar que cualquier persona que tenga contacto con un material que está a 150ºC se queme. Dado esto y que el material tiene un espesor de 5 cm, debe permitir un flux de calor de 305 W/m^2, tiene una conductividad de 5.08 W/mK, una densidad de 0.34 y un calor especifico de 880 J/gK, calcule la temperatura en la superficie. 40°C 146.97°C 37°C 420°C",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 75
+        },
+        {
+            "context": "Si tiene un músculo con geometría cilíndrica en estado estacionario con radio de 13 cm, una temperatura promedio de 37ºC y se aplica una temperatura superficial de 54ºC, cuál es la temperatura en r = 6.5cm? Suponga que no hay generación de calor metabólico ni convección, y que hay una distribución lineal de temperatura desde la superficie hasta la temperatura promedio. 45.5°C 40.2°C 48.32°C Ninguna de las anteriores",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 76
+        },
+        {
+            "context": "¿Qué ocurre si el coeficiente convectivo (h) se hace muy grande? La resistencia a la transferencia convectiva se hace muy pequeña y la temperatura en la superficie tiende a ser muy cercana a la temperatura del fluido. La resistencia a la transferencia convectiva se hace muy grande y la temperatura en la superficie tiende a ser muy cercana a la temperatura del fluido. La resistencia a la transferencia convectiva se hace muy pequeña y la temperatura en la superficie tiende a ser muy lejana a la temperatura del fluido. La resistencia a la transferencia convectiva se hace muy grande y la temperatura en la superficie tiende a ser muy lejana a la temperatura del fluido.",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 77
+        },
+        {
+            "context": "El perfil de temperatura de un cilindro en estado estacionario es lineal porque al área de transferencia de calor siempre es igual. Verdadero Falso",
+            "question": "",
+            "options": [],
+            "correct_answer": "b",
+            "image": "",
+            "id": 78
+        },
+        {
+            "context": "¿Cuál de las siguientes opciones describe mejor la Ley de Fourier para la conducción de calor? Es una ley que relaciona el flujo de calor con la diferencia de temperatura y la resistencia térmica del material. Es una ley empírica que describe el flujo de calor en un fluido debido a la convección Es una ecuación diferencial que describe la distribución de temperatura en un cuerpo a lo largo del tiempo Es una ecuación diferencial que describe la distribución de temperatura en un cuerpo a lo largo del tiempo",
+            "question": "",
+            "options": [],
+            "correct_answer": "d",
+            "image": "",
+            "id": 79
+        },
+        {
+            "context": "Se necesita solo una condición de contorno para resolver un problema de conducción de calor en un bloque en estado transiente. Verdadero Falso",
+            "question": "",
+            "options": [],
+            "correct_answer": "b",
+            "image": "",
+            "id": 80
+        },
+        {
+            "context": "A la hora de escribir la ecuación general de transferencia de calor, el término de reacción incluye también cualquier conversión de otras formas de energía en calor. Verdadero Falso",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 81
+        },
+        {
+            "context": "La aproximación por parámetros agrupados se puede usar cuando: La resistencia interna a la transferencia de calor es despreciable. La resistencia externa a la transferencia de calor es despreciable. Siempre que se necesite resolver un problema de transferencia de calor por convección. Ninguna de las anteriores",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 82
+        },
+        {
+            "context": "Cuando usted llega a clase de 6.30am a la Universidad de los Andes, siente el aire frio fluyendo sobre la cara. Si el coeficiente de transferencia de calor (h) tiende a infinito usted sabe que le deben indicar _______ para resolver el balance. La temperatura del aire, la cual es igual a la temperatura de la cara. El flux de calor sobre la superficie de la cara La temperatura del aire y la temperatura de la piel ya que están a temperaturas distintas. La temperatura del aire lejos, la cual es diferente.",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 83
+        },
+        {
+            "context": "¿La ecuación de Biocalor contempla variables fisiológicas de como la perfusión y el metabolismo? Verdadero Falso",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 84
+        },
+        {
+            "context": "La difusividad, térmica hace referencia a la constante de proporcionalidad que relaciona el gradiente de energía y el flux de energía. Además, con un aumento de esta, la resistencia térmica disminuye. La afirmación 1 esta correcta. La afirmación 2 es incorrecta. La afirmación 1 es incorrecta. La afirmación 2 es correcta. Ambas afirmaciones son correctas. Ambas afirmaciones son incorrectas.",
+            "question": "",
+            "options": [],
+            "correct_answer": "b",
+            "image": "",
+            "id": 85
+        },
+        {
+            "context": "Usted está evaluando como varía la temperatura dentro de un tumor en el riñón, al cual se le está aplicando una termoterapia para eliminar o reducir su tamaño. Esta termoterapia consiste en aplicar calor en el centro del tumor por medio de una sonda. Para esto usted decide modelar el tumor en coordenadas cartesianas ya que plantea una geometría rectangular. ¿Cómo esperaría usted que resultara el perfil de temperatura? Hint: ¿Cuales son las condiciones de contorno utilizadas? Parábolica Lineal Cuadrática Logarítmica",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 86
+        },
+        {
+            "context": "Respecto al número de Fourier en problemas de transferencia de calor, es cierto que: Se utiliza únicamente para trabajar problemas transientes. Su cálculo se basa, entre otros, en la conductividad térmica de un material. Un problema de \"tiempos largos\" se define cuando Fo > 0.2. I II III I y II I y III II y III Todas son ciertas Ninguna es cierta",
+            "question": "",
+            "options": [],
+            "correct_answer": "e",
+            "image": "",
+            "id": 87
+        },
+        {
+            "context": "Usted está estudiando la transferencia de calor de un esferoide celular (un clúster o conjunto de células que forman un agregado esférico), con el fin de comprender mejor su potencial uso para estudiar tumores. Para ello, usted coloca su esferoide en un ambiente fisiológico que simula los fluidos biológicos, en donde el coeficiente convectivo de transferencia de calor alcanza un valor de h = 0.01 W/m^2*K. Determine qué aproximación debe usar, y calcule la temperatura del centro del esferoide pasados 90 minutos. Asuma que su esferoide tiene una longitud característica de 750 µm, que su conductividad térmica k es de 1.5e-4 W/mK, su área de sección transversal es 1.8E-6 m^2, su masa es de 1.8E-6 kg, su calor específico es de 4000 J/kg*K, y su difusividad es de 3.6E-11 m^2/s. Asuma además la temperatura del ambiente como 37°C y la temperatura inicial del esferoide como 40°C. T = 39.96 °C T = 37.05 °C T = 36.56 °C T = 38.00 °C",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 88
+        },
+        {
+            "context": "La condición de ________ se emplea cuando se busca que una superficie (x=0) presente un flux de calor reducido que se aproxime a 0, mientras que con la condición de ________ se obtiene un flux de calor nulo sobre la línea central de la geometría de interés (x=L). Simetría, aislamiento Aislamiento, simetría",
+            "question": "",
+            "options": [],
+            "correct_answer": "b",
+            "image": "",
+            "id": 89
+        },
+        {
+            "context": "Se considera el caso de un músculo con geometría cilíndrica que genera 5.8kW/m^3 de calor con una difusividad térmica de 2.56E−7 m^2/s, un radio de 1cm, 1810kg/m^3 de densidad y un calor específico de 904J/kg K. Teniendo en cuenta la información anterior, calcule la conductividad térmica del músculo y seleccione la respuesta correcta. 0.419 W/mK 0.419 m^2/s 0.0419 W/mK 0.00419 m^2/s",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 90
+        },
+        {
+            "context": "Usted va en el bus hacia la Universidad y va escuchando la conversación de la pareja que va enfrente. Están discutiendo sobre cual material deberían comprar para construir las paredes de la nueva casa en tierra fría. La mujer comenta que deberían comprar metal ya que su baja conductividad térmica evitaría la pérdida de calor, a lo que el hombre contesta que deberían comprar aislantes ya que su alta conductividad térmica permitiría la entrada de más calor. Usted interrumpe la conversación para decirles que: El hombre está en lo correcto La mujer está en lo correcto Los dos están equivocados Ambos tienen la razón y pueden escoger cualquiera de las dos alternativas",
+            "question": "",
+            "options": [],
+            "correct_answer": "c",
+            "image": "",
+            "id": 91
+        },
+        {
+            "context": "La difusividad térmica depende del flujo de calor y la capacidad calorífica. Verdadero Falso",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 92
+        },
+        {
+            "context": "Usted está decidiendo con su grupo de Fenómenos que aproximación utilizar para resolver el problema de transferencia de calor a través de una prótesis de cadera que está compuesta principalmente por metales conductores. Por esto usted y su grupo deciden: Hacer un análisis por parámetros agrupados ya que, al tener una conductividad térmica muy alta, la resistencia interna es despreciable Hacer un análisis por parámetros agrupados ya que, al tener una conductividad térmica muy alta, la resistencia interna es despreciable Hacer un análisis por parámetros agrupados ya que, al tener una conductividad térmica muy alta, la resistencia interna es despreciable Hacer un análisis por parámetros agrupados ya que, al tener una conductividad térmica muy alta, la resistencia interna es despreciable",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 93
+        },
+        {
+            "context": "¿Cuál de las siguientes condiciones de contorno no aplica en la solución de problemas de transferencia de calor? Temperatura específica en la superficie. Flux de calor en la superficie Conducción en la superficie Convección en la superficie",
+            "question": "",
+            "options": [],
+            "correct_answer": "c",
+            "image": "",
+            "id": 94
+        },
+        {
+            "context": "Un compañero de la Universidad está haciendo un experimento en el cual mide la energía térmica en una masa. Le comenta que el material que escogió inicialmente es un muy costoso, entonces está buscando reemplazarlo, pero no quiere afectar los resultados de la energía térmica obtenidos en un comienzo. Por sus conocimientos de la clase de Fenómenos de Transporte Biológico, usted le recomienda: Hacer un análisis por parámetros agrupados ya que, al tener una conductividad térmica muy alta, la resistencia interna es despreciable Conservar únicamente la capacidad calorífica igual. Conservar el área del material igual ya que la energía térmica no cambiará si controla esto Conservar la densidad y la capacidad calorífica y la conductividad igual",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 95
+        },
+        {
+            "context": "Al tener una geometría simétrica, una de las condiciones de contorno que se debe tener en cuenta es que el gradiente de temperatura en el centro de la geometría es igual a 0. Verdadero Falso",
+            "question": "",
+            "options": [],
+            "correct_answer": "a",
+            "image": "",
+            "id": 96
+        }
+    ]
+}

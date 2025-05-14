@@ -1,0 +1,263 @@
+
+{
+    "questions": [
+        {
+            "context": "Imagina que estás en una expedición por la selva amazónica donde la temperatura ambiente supera los 30°C, mientras que tu amigo está en Bogotá en un día cálido con una temperatura que no supera los 20°C. Para mantener el confort térmico, tú y tu amigo pierden calor por diferentes mecanismos.",
+            "question": "¿Cuál de las siguientes combinaciones describe correctamente el principal mecanismo de pérdida de calor en cada caso?",
+            "options": [
+                "a. Tu: Conducción; tu amigo: evaporación.",
+                "b. Tu: Radiación y evaporación; tu amigo: evaporación.",
+                "c. Tu: evaporación; tu amigo: radiación.",
+                "d. Tu: evaporación; tu amigo: radiación y convección."
+            ],
+            "correct_answer": "d",
+            "image": "",
+            "id": 1
+        },
+        {
+            "context": "Un paciente presenta un tumor cancerígeno en la pared del intestino delgado. Para removerlo, los médicos sugieren un tratamiento por termoterapia y determinan que a una profundidad de 0.5 mm en la pared la temperatura alcanza los 31°C.",
+            "question": "¿Cuál será la temperatura en la superficie del tumor si la temperatura inicial fue de 38°C? **Pista:** Asuma el problema está en estado estacionario y la geometría es un bloque con un ancho de 1mm.",
+            "options": [
+                "a. 25°C",
+                "b. 33°C",
+                "c. 24°C",
+                "d. 19°C"
+            ],
+            "correct_answer": "c",
+            "image": "",
+            "id": 3
+        },
+        {
+            "context": "Imagina que tienes una colonia de bacterias en un recipiente aislado térmicamente donde la temperatura de las paredes es constante. Al inyectar un soluto para alimentar a las bacterias, observas que algunas de ellas reaccionan produciendo calor.",
+            "question": "¿En qué punto del recipiente se presenta la temperatura máxima?",
+            "options": [
+                "a. En las paredes del recipiente.",
+                "b. En la parte trasera del recipiente.",
+                "c. La temperatura es constante en todas partes.",
+                "d. En el centro del recipiente."
+            ],
+            "correct_answer": "d",
+            "image": "",
+            "id": 4
+        },
+        {
+            "context": "Una especie de mamíferos se vio afectada por el calentamiento global debido a que su ecosistema comenzó a experimentar aumentos de temperatura durante períodos prolongados. Algunos descendientes desarrollaron mutaciones que les permitieron sobrevivir.",
+            "question": "¿Cuál de estos cambios morfológicos pudo ser el más probable?",
+            "options": [
+                "a. Disminución de su vello capilar",
+                "b. Aumento de su diámetro craneal",
+                "c. Disminución de sus extremidades superiores.",
+                "d. Surgimiento de una aleta o superficie plana."
+            ],
+            "correct_answer": "d",
+            "image": "",
+            "id": 5
+        },
+        {
+            "context": "Considerando únicamente la resistencia conductiva, ¿cuál de estos sistemas se calentará en menor tiempo? **Nota:** Asuma que la conductividad térmica (k) es igual para ambos sistemas.",
+            "question": "",
+            "options": [
+                "a. El sistema 1",
+                "b. Son iguales",
+                "c. El sistema 2",
+                "d. No se puede determinar"
+            ],
+            "correct_answer": "b",
+            "image": "",
+            "id": 6
+        },
+        {
+            "context": "Al aproximar una geometría a una región semi-infinita, el espesor mínimo que se necesita para emplear este método es directamente proporcional al tiempo y a la difusividad térmica del sistema.",
+            "question": "Indica si la afirmación es verdadera o falsa.",
+            "options": [
+                "a. Verdadero",
+                "b. Falso"
+            ],
+            "correct_answer": "b",
+            "image": "",
+            "id": 7
+        },
+        {
+            "context": "En un proyecto, se le encargó desarrollar un dispositivo en el cual el calor se conduzca lentamente hacia la superficie para mantener un mayor control sobre el gradiente de temperatura. Como ingeniero biomédico, dispone de dos materiales posibles, donde el R-value del primero es mucho menor que el del segundo.",
+            "question": "¿Cuál de los dos materiales escogería para la aplicación?",
+            "options": [
+                "a. El material 1",
+                "b. El material 2",
+                "c. Una aleación de ambos materiales",
+                "d. Llamaría a su profesor para preguntarle cuál debe escoger"
+            ],
+            "correct_answer": "b",
+            "image": "",
+            "id": 8
+        },
+        {
+            "context": "Un bloque con un espesor de 50 mm tiene en las superficies interna y externa temperaturas de 20°C y 5°C, respectivamente. Determina los flujos de calor para paredes de diferentes conductividades térmicas. La conductividad térmica (k) de los materiales es la siguiente: Ladrillo: 0.69 W/mK, Madera: 0.208 W/mK.",
+            "question": "¿Cuál es el flujo de calor (en W/m²) a través de la pared de ladrillo y la pared de madera?",
+            "options": [
+                "a. Ladrillo: 207 W/m², Madera: 62 W/m²",
+                "b. Ladrillo: 41.4 W/m², Madera: 12.48 W/m²",
+                "c. Ladrillo: 207 W/m², Madera: 12.48 W/m²",
+                "d. Ladrillo: 41.4 W/m², Madera: 62 W/m²"
+            ],
+            "correct_answer": "a",
+            "image": "",
+            "id": 9
+        },
+        {
+            "context": "Un cilindro vertical está expuesto a un flujo de aire a 25°C. La temperatura de la superficie del cilindro es 75°C. Si el coeficiente de transferencia de calor por convección es ℎ=10 W/m²K.",
+            "question": "¿Cuál es la tasa de transferencia de calor por convección desde el cilindro al aire?",
+            "options": [
+                "a. 250 W/m²",
+                "b. 500 W/m²",
+                "c. 750 W/m²",
+                "d. 1000 W/m²"
+            ],
+            "correct_answer": "b",
+            "image": "",
+            "id": 10
+        },
+        {
+            "context": "Un panel de acero con un espesor de 10 cm tiene una temperatura de 150°C en una superficie y 50°C en la otra. La conductividad térmica del acero es k=45W/mK.",
+            "question": "¿Cuál es el flujo de calor a través del panel?",
+            "options": [
+                "a. 45 W/m²",
+                "b. 450 W/m²",
+                "c. 4500 W/m²",
+                "d. 45,000 W/m²"
+            ],
+            "correct_answer": "c",
+            "image": "",
+            "id": 11
+        },
+        {
+            "context": "Una superficie plana horizontal de 2 m² se mantiene a una temperatura constante de 400 K. La superficie está expuesta al aire ambiente a 300 K con un coeficiente de transferencia de calor por convección de 15 W/m²K. La emisividad de la superficie es 0.85.",
+            "question": "¿Cuál es la tasa total de transferencia de calor desde la superficie?",
+            "options": [
+                "a. 2300 W",
+                "b. 4500 W",
+                "c. 6900 W",
+                "d. 9200 W"
+            ],
+            "correct_answer": "b",
+            "image": "",
+            "id": 12
+        },
+        {
+            "context": "¿Cuál de las siguientes opciones describe mejor la Ley de Fourier para la conducción de calor?",
+            "question": "",
+            "options": [
+                "a. Es una ley que relaciona el flujo de calor con la diferencia de temperatura y la resistencia térmica del material.",
+                "b. Es una ley empírica que describe el flujo de calor en un fluido debido a la convección.",
+                "c. Es una ecuación diferencial que describe la distribución de temperatura en un cuerpo a lo largo del tiempo.",
+                "d. Es una ley que relaciona el flujo de calor con el gradiente de temperatura y la conductividad térmica del material."
+            ],
+            "correct_answer": "d",
+            "image": "",
+            "id": 13
+        },
+        {
+            "context": "En el desarrollo de un modelo térmico para simular la ablación por radiofrecuencia de un tumor hepático, surge la pregunta sobre la inclusión de los vasos sanguíneos grandes presentes en el hígado.",
+            "question": "¿Por qué es importante considerar la exclusión de los vasos sanguíneos grandes al aplicar la ecuación de bio-calor en el modelado de la ablación por radiofrecuencia?",
+            "options": [
+                "a. Porque los vasos sanguíneos grandes no afectan la distribución de temperatura dentro del hígado durante la ablación por radiofrecuencia.",
+                "b. Porque los vasos sanguíneos grandes tienen una temperatura constante que no varía significativamente con respecto al tejido circundante durante el procedimiento de ablación.",
+                "c. Porque la inclusión de los vasos sanguíneos grandes requeriría un modelo térmico más complejo que tome en cuenta la circulación sanguínea y la interacción entre el tejido sólido y el líquido, lo cual contradice la suposición de homogeneidad del material en la ecuación de bio-calor.",
+                "d. Porque los modelos de transferencia de calor no son aplicables en tejidos que contienen vasos sanguíneos grandes debido a la variabilidad de la temperatura en el sistema vascular durante la ablación por radiofrecuencia."
+            ],
+            "correct_answer": "c",
+            "image": "",
+            "id": 14
+        },
+        {
+            "context": "En un laboratorio de investigación, se lleva a cabo un experimento para estudiar el enfriamiento de una taza de café recién preparado. La taza contiene café caliente a una temperatura inicial de 80°C y se encuentra en un ambiente a una temperatura de 20°C.",
+            "question": "¿Cuál de las siguientes afirmaciones describe mejor el balance de calor en este caso?",
+            "options": [
+                "a. La taza de café pierde calor al ambiente circundante a través de un proceso de convección, mientras que simultáneamente gana calor del ambiente debido a la diferencia de temperatura.",
+                "b. La taza de café gana calor del ambiente circundante a través de un proceso de conducción, mientras que simultáneamente pierde calor al ambiente debido a la diferencia de temperatura.",
+                "c. La taza de café gana calor del ambiente circundante a través de un proceso de convección, mientras que simultáneamente pierde calor al ambiente debido a la diferencia de temperatura.",
+                "d. La taza de café pierde calor al ambiente circundante a través de un proceso de conducción, mientras que simultáneamente gana calor del ambiente debido a la diferencia de temperatura."
+            ],
+            "correct_answer": "c",
+            "image": "",
+            "id": 16
+        },
+        {
+            "context": "Un estudio observó que, tras ser trasladadas a un ambiente nevado, zarigüeyas silvestres no solo sobrevivieron, sino que prosperaron. Se hipotetiza que las generaciones siguientes desarrollaron un pelaje más grueso.",
+            "question": "¿Es válida esta hipótesis considerando la termorregulación?",
+            "options": [
+                "a. Falso, pues el efecto de un aumento en el grosor del pelo afecta la resistencia térmica únicamente de los animales grandes.",
+                "b. Verdadero, ya que el efecto de un aumento en el grosor del pelo aumenta considerablemente la resistencia térmica en animales pequeños.",
+                "c. Falso, ya que el efecto de un aumento en el grosor del pelo afecta mínimamente la resistencia térmica de un animal pequeño.",
+                "d. Verdadero, ya que el aumento en el grosor del pelo tiene relación directa con la disminución del metabolismo del animal."
+            ],
+            "correct_answer": "c",
+            "image": "",
+            "id": 17
+        },
+        {
+            "context": "Para el desarrollo de un proyecto para astronautas, se propuso un sistema que simula el comportamiento de los vasos sanguíneos a diferentes temperaturas, ya que esto permitiría conocer su fisiología cuando se exponen a ambientes extremos.",
+            "question": "¿Cuál sería una hipótesis válida respecto a las respuestas al enfriamiento?",
+            "options": [
+                "a. Disminuye la producción de calor por termorregulación.",
+                "b. Los vasos presentarán pérdida de calor por evaporación, pues estos se dilatarán.",
+                "c. Habrá vasodilatación, pues de esta manera se disminuirá la resistencia térmica y se generará un mayor flujo de calor hacia el vaso.",
+                "d. Habrá vasoconstricción, pues esto disminuirá el flujo de sangre y permitirá aumentar la resistencia térmica, evitando la pérdida de calor."
+            ],
+            "correct_answer": "d",
+            "image": "",
+            "id": 18
+        },
+        {
+            "context": "En una termoterapia donde se utiliza un dispositivo que alcanza altas temperaturas para eliminar un tumor maligno, se necesita evitar que el flujo de calor dañe otros tejidos.",
+            "question": "¿Qué condición de contorno sería más adecuada?",
+            "options": [
+                "a. Temperatura específica en la superficie.",
+                "b. Flux de calor en la superficie.",
+                "c. Condición de simetría.",
+                "d. Condición de aislamiento."
+            ],
+            "correct_answer": "d",
+            "image": "",
+            "id": 19
+        },
+        {
+            "context": "En un laboratorio de ingeniería biomédica, se ha diseñado un sistema de secado de apósitos mediante una corriente de aire caliente que fluye sobre su superficie.",
+            "question": "¿Cuál es la condición de contorno correcta para la superficie del apósito en contacto con el aire?",
+            "options": [
+                "A. En la superficie, T(s) = T∞ (temperatura del aire).",
+                "B. En la superficie, T(s) = k·T∞, donde k es el coeficiente de partición.",
+                "C. En la superficie, -k(∂T/∂x) = h[T∞ - T(s)], donde h es el coeficiente de transferencia de calor por convección.",
+                "D. En la superficie, T(s) < T(centro) debido al gradiente de temperatura."
+            ],
+            "correct_answer": "c",
+            "image": "",
+            "id": 22
+        },
+        {
+            "context": "En un día soleado de playa, usted decide descubrir las maravillas del mundo marino y compra un equipo para hacer snorkel. Cuando se sumerge en el mar, usted se encuentra con unos corales que están totalmente sumergidos en el agua.",
+            "question": "¿Qué podría decir sobre estos corales?",
+            "options": [
+                "a. Su resistencia interna al movimiento difusivo es despreciable.",
+                "b. Su resistencia externa al movimiento difusivo es despreciable.",
+                "c. La concentración de humedad sobre el coral no es espacialmente uniforme.",
+                "d. El número de Biot del coral es muy grande."
+            ],
+            "correct_answer": "a",
+            "image": "",
+            "id": 23
+        },
+        {
+            "context": "Para evaluar el cambio de concentración de un sólido respecto al tiempo, ¿Cuál es el primer parámetro que debe revisar?",
+            "question": "",
+            "options": [
+                "a. Usted revisa si la longitud del sólido le permite aplicar una aproximación semi-infinita.",
+                "b. Usted evalúa el número de Fourier y determina si este es mayor o menor a 0.2 y si es aplicable el uso de las cartas de Heisler.",
+                "c. Usted verifica si el número de Biot es mayor o menor a 0.1, para evaluar si debe tener o no en cuenta la resistencia interna del sólido.",
+                "d. Le pregunta a su profesor ante la incertidumbre sobre el procedimiento a seguir."
+            ],
+            "correct_answer": "a",
+            "image": "",
+            "id": 24
+        }
+    ]
+}

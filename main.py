@@ -19,6 +19,11 @@ with open("dataP1.json", "r", encoding="utf-8") as file:
 with open("dataP2.json", "r", encoding="utf-8") as file:
     data = json.load(file)
     questionsP2Final = data["questions"]
+    
+# Cargar preguntas desde el archivo JSON
+with open("dataP3.json", "r", encoding="utf-8") as file:
+    data = json.load(file)
+    questionsP3Final = data["questions"]
 
 # Modelo de respuesta para una pregunta
 class QuestionResponse(BaseModel):
@@ -55,6 +60,26 @@ def get_random_questionP1():
 @app.get("/api/randomquestionP2", response_model=QuestionResponse)
 def get_random_questionP2():
     question = random.choice(questionsP2Final)
+
+    response = {
+        "code": 200,
+        "msg": "Pregunta obtenida con éxito",
+        "data": {
+            "context": question["context"],
+            "question": question["question"],
+            "options": question["options"],
+            "correct_answer": question["correct_answer"],
+            "image": question["image"]
+        },
+        "request_id": generate_request_id()
+    }
+
+    return response
+
+# Endpoint para obtener una pregunta aleatoria de la parte 3
+@app.get("/api/randomquestionP3", response_model=QuestionResponse)
+def get_random_questionP3():
+    question = random.choice(questionsP3Final)
 
     response = {
         "code": 200,
