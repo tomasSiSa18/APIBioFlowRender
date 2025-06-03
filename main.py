@@ -1,4 +1,5 @@
-from fastapi import FastAPI
+import base64
+from fastapi import FastAPI, Path
 import json
 import random
 from pydantic import BaseModel
@@ -95,3 +96,10 @@ def get_random_questionP3():
     }
 
     return response
+
+@app.get("/get_image")
+async def get_image():
+    image_path = Path("pregunta5.jpg")
+    with open(image_path, "rb") as image_file:
+        encoded_string = base64.b64encode(image_file.read())
+    return {"BASE64": encoded_string}
