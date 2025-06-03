@@ -99,7 +99,6 @@ def get_random_questionP3():
 
 @app.get("/get_image")
 async def get_image():
-    image_path = Path("pregunta5.jpg")
-    with open(image_path, "rb") as image_file:
+    with open("pregunta5.jpg", "rb") as image_file:
         encoded_string = base64.b64encode(image_file.read())
     return {"BASE64": encoded_string}
